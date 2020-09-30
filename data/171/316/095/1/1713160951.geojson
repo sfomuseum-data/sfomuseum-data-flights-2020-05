@@ -88,11 +88,11 @@
         1159283813,
         1477930345
     ],
-    "wof:lastmodified":1590077263,
+    "wof:lastmodified":1601502400,
     "wof:name":"AS3410 (SFO-SAN)",
     "wof:parent_id":1477930345,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2020-05",
+    "wof:repo":"sfomuseum-data-flights-2020-05",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

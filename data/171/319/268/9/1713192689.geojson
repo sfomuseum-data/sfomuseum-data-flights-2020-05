@@ -94,11 +94,11 @@
         1477930345,
         1159283813
     ],
-    "wof:lastmodified":1591027640,
+    "wof:lastmodified":1601502526,
     "wof:name":"SQ1296 (SFO-SLC)",
     "wof:parent_id":1477930345,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2020-05",
+    "wof:repo":"sfomuseum-data-flights-2020-05",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

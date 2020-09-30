@@ -88,11 +88,11 @@
         1159285413,
         1477930451
     ],
-    "wof:lastmodified":1588781210,
+    "wof:lastmodified":1601502279,
     "wof:name":"UA1858 (IAD-SFO)",
     "wof:parent_id":1477930451,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2020-05",
+    "wof:repo":"sfomuseum-data-flights-2020-05",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

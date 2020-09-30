@@ -88,11 +88,11 @@
         1159285591,
         1477881727
     ],
-    "wof:lastmodified":1588867580,
+    "wof:lastmodified":1601501898,
     "wof:name":"WN1744 (LAS-SFO)",
     "wof:parent_id":1477881727,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2020-05",
+    "wof:repo":"sfomuseum-data-flights-2020-05",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

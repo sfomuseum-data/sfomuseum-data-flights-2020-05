@@ -88,11 +88,11 @@
         1159285413,
         1477930457
     ],
-    "wof:lastmodified":1589731566,
+    "wof:lastmodified":1601502095,
     "wof:name":"UA1497 (DEN-SFO)",
     "wof:parent_id":1477930457,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2020-05",
+    "wof:repo":"sfomuseum-data-flights-2020-05",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

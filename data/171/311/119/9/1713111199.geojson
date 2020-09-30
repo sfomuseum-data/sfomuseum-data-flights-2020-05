@@ -88,11 +88,11 @@
         1159283813,
         1477930351
     ],
-    "wof:lastmodified":1588435461,
+    "wof:lastmodified":1601502283,
     "wof:name":"AS3318 (SFO-SNA)",
     "wof:parent_id":1477930351,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2020-05",
+    "wof:repo":"sfomuseum-data-flights-2020-05",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

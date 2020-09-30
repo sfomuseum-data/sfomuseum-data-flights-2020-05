@@ -88,11 +88,11 @@
         1159284157,
         1477930487
     ],
-    "wof:lastmodified":1588954018,
+    "wof:lastmodified":1601501929,
     "wof:name":"MU589 (PVG-SFO)",
     "wof:parent_id":1477930487,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2020-05",
+    "wof:repo":"sfomuseum-data-flights-2020-05",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

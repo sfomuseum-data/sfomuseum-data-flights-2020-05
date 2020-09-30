@@ -94,11 +94,11 @@
         1477930349,
         1159283813
     ],
-    "wof:lastmodified":1589818006,
+    "wof:lastmodified":1601501825,
     "wof:name":"SQ1338 (SFO-LAX)",
     "wof:parent_id":1477930349,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2020-05",
+    "wof:repo":"sfomuseum-data-flights-2020-05",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
