@@ -54,10 +54,13 @@
       1159285523,
       -1
     ],
-    "wof:lastmodified": 1651269555,
+    "wof:lastmodified": 1717030747,
     "wof:name": "WS1775 (SFO-YVR)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2020-05",
     "wof:superseded_by": [],
     "wof:supersedes": [],

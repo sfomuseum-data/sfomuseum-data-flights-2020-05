@@ -126,10 +126,13 @@
       1477930369,
       1159283849
     ],
-    "wof:lastmodified": 1653352059,
+    "wof:lastmodified": 1717030742,
     "wof:name": "QF4632 (SFO-DFW)",
     "wof:parent_id": -4,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2020-05",
     "wof:superseded_by": [],
     "wof:supersedes": [],

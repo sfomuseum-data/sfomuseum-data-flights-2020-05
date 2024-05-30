@@ -133,10 +133,13 @@
       1477930319,
       1159289871
     ],
-    "wof:lastmodified": 1653352107,
+    "wof:lastmodified": 1717030743,
     "wof:name": "DL935 (SFO-MSP)",
     "wof:parent_id": -4,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2020-05",
     "wof:superseded_by": [],
     "wof:supersedes": [],
